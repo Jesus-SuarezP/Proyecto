@@ -209,7 +209,8 @@ anova(ergm8_fit)
 # mejor modelo: modelo 7
 ?gof
 
-gof.ergm_model7 <- gof(ergm7_fit)
+set.seed(39)
+gof.ergm_model7 <- gof(ergm7_fit, control = control.gof.ergm(nsim = 1000))
 print(gof.ergm_model7)
 plot(gof.ergm_model7)
 
