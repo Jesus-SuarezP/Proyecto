@@ -1,4 +1,4 @@
-# Proyecto Red de Comercio de Crudo
+# Proyecto Red de Comercio de Petróleo
 
 Repositorio Proyecto presentado en el curso de Análisis Estadístico de Redes Sociales (2024-I). Departamento de Estadística de la Universidad Nacional de Colombia.
 
